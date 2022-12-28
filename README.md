@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# Pizza Restaurant
+# Pizza Hayyu
 
 | Screenshot | Screenshot | Screenshot |
 | ---------- | ---------- | ---------- |
