@@ -1,4 +1,4 @@
-package com.frinaldi.frizzarestaurant;
+package com.azmialdisr.azmialdisrrestaurant;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 

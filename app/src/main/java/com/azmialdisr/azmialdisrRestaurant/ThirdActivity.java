@@ -1,4 +1,4 @@
-package com.frinaldi.frizzarestaurant;
+package com.azmialdisr.azmialdisrrestaurant;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;

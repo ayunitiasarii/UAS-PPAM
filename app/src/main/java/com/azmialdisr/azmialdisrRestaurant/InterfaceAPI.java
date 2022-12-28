@@ -1,4 +1,4 @@
-package com.frinaldi.frizzarestaurant;
+package com.azmialdisr.azmialdisrrestaurant;
 import java.util.List;
 
 import retrofit2.Call;

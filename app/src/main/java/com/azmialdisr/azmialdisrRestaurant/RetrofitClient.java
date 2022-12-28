@@ -1,4 +1,4 @@
-package com.frinaldi.frizzarestaurant;
+package com.azmialdisr.azmialdisrrestaurant;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

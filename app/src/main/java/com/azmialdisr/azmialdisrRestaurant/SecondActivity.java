@@ -1,6 +1,6 @@
-package com.frinaldi.frizzarestaurant;
+package com.azmialdisr.azmialdisrrestaurant;
 
-import static com.frinaldi.frizzarestaurant.R.drawable.*;
+import static com.azmialdisr.azmialdisrrestaurant.R.drawable.*;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.Group;
