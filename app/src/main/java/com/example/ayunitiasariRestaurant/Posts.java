@@ -1,4 +1,4 @@
-package com.azmialdisr.azmialdisrrestaurant;
+package com.example.ayunitiasariRestaurant;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 

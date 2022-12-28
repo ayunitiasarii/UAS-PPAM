@@ -1,4 +1,4 @@
-package com.azmialdisr.azmialdisrrestaurant;
+package com.example.ayunitiasariRestaurant;
 
 import android.content.Context;
 import android.content.Intent;

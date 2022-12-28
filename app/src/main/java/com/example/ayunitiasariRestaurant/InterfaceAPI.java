@@ -1,4 +1,4 @@
-package com.azmialdisr.azmialdisrrestaurant;
+package com.example.ayunitiasariRestaurant;
 import java.util.List;
 
 import retrofit2.Call;

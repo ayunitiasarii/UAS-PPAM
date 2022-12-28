@@ -1,4 +1,4 @@
-package com.azmialdisr.azmialdisrrestaurant;
+package com.example.ayunitiasariRestaurant;
 
 import static com.azmialdisr.azmialdisrrestaurant.R.drawable.*;
 
